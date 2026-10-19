@@ -165,6 +165,7 @@ HAHUJOBS + MINABITSOLUTIONS
 
 - Amharic
 - English
+- Tigrigna
 
 ---
 
