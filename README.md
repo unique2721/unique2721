@@ -68,7 +68,7 @@ Working on the development and enhancement of web-based data management and repo
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" alt="Node.js, Express.js, Python and Django" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" alt="Node.js, Express.js" />
 
 ### Databases
 
@@ -113,13 +113,6 @@ A full-stack marketplace for browsing and comparing vehicles.
 
 </div>
 
-### 🌍 Ethiopian Tourism Website
-
-A React-based project showcasing Ethiopian tourism destinations and supporting an engaging browsing experience.
-
-**Technologies:** React · JavaScript · CSS
-
-[![Explore Repositories](https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/unique2721?tab=repositories)
 
 ### 🏦 Monetary Stability Data Management System
 
