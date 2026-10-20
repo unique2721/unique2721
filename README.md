@@ -87,16 +87,6 @@ Contributing to the development and improvement of web applications that support
 
 </div>
 
-| Area | Technologies and Skills |
-|---|---|
-| **Frontend** | React, JavaScript, HTML5, CSS3, Tailwind CSS, responsive UI |
-| **Backend** | Node.js, Express.js, REST API development |
-| **Databases** | Microsoft SQL Server, T-SQL, MongoDB, SQL, data modeling |
-| **Security** | JWT authentication, session handling, role-based access control |
-| **Engineering** | Debugging, API integration, data validation, application maintenance |
-| **Tools & Deployment** | Git, GitHub, VS Code, Postman, Netlify, Vercel |
-
----
 
 ## 🌟 Featured Projects
 
