@@ -149,15 +149,7 @@ A web-based data management and reporting system supporting the collection, vali
 
 ---
 
-### 🌍 4. Ethiopian Tourism Website
 
-A web project showcasing Ethiopian tourism through a modern frontend experience.
-
-**Technology stack:** React · JavaScript · CSS
-
-[![Explore Projects](https://img.shields.io/badge/EXPLORE-My%20Repositories-181717?style=for-the-badge&logo=github)](https://github.com/unique2721?tab=repositories)
-
----
 
 ## 🎓 Education & Certification
 
@@ -170,31 +162,6 @@ Graduated: 2025
 
 **HAHUJOBS + MINABITSOLUTIONS**
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=unique2721&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unique2721&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=unique2721&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/unique2721/unique2721/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution graph snake animation" />
-
-</div>
-
----
 
 ## 🌐 Languages
 
